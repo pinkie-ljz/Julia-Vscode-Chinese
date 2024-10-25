@@ -1,1 +1,0 @@
-# pinkie.ljz.github.io
