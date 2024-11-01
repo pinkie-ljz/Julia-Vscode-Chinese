@@ -1,0 +1,15 @@
+{
+  "theme": "moonstone",
+  "accentColor": "",
+  "interfaceFontFamily": "Bookerly Display",
+  "textFontFamily": "Bookerly Display,华康手札体W7P",
+  "monospaceFontFamily": "Hermit,Fira Code Retina",
+  "baseFontSize": 21,
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "snippet",
+    "bullet-point-relationship-lines",
+    "custom-icons-differing-files-and-folders"
+  ],
+  "nativeMenus": false
+}

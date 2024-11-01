@@ -1,0 +1,10 @@
+{
+  "CHROME_PATH": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "ThemePath": "",
+  "EnableHTML": true,
+  "MathTypesettings": "mathjax",
+  "HTMLExportMode": "bare",
+  "EXPORT_PATH": "",
+  "EnableSyncPreview": true,
+  "EnableMarkdownItPlugins": false
+}

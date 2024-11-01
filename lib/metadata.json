@@ -1,0 +1,1050 @@
+{
+  "vaultName": "Please set your title",
+  "lastExport": 1730429856598,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": true,
+  "files": [
+    "src/userguide/codenavigation.md",
+    "src/userguide/debugging.md",
+    "src/userguide/editingcode.md",
+    "src/userguide/env.md",
+    "src/userguide/formatter.md",
+    "src/userguide/grid.md",
+    "src/userguide/keybindings.md",
+    "src/userguide/linter.md",
+    "src/userguide/plotgallery.md",
+    "src/userguide/privacy.md",
+    "src/userguide/profiler.md",
+    "src/userguide/remote.md",
+    "src/userguide/runningcode.md",
+    "src/userguide/settings.md",
+    "src/userguide/tasks.md",
+    "src/userguide/testitems.md",
+    "src/userguide/understandingcode.md",
+    "src/userguide/weave.md",
+    "src/faq.md",
+    "src/gettingstarted.md",
+    "src/index.md",
+    "src/setup.md",
+    "lib/media/image1.png",
+    "lib/media/definition.gif",
+    "lib/media/symbols.gif",
+    "lib/media/opensymbol.png",
+    "lib/media/3.png",
+    "lib/media/4.png",
+    "lib/media/5.png",
+    "lib/media/6.png",
+    "lib/media/7.png",
+    "lib/media/8.png",
+    "lib/media/10.png",
+    "lib/media/9.png",
+    "lib/media/11.png",
+    "lib/media/12.png",
+    "lib/media/13.png",
+    "lib/media/14.png",
+    "lib/media/16.png",
+    "lib/media/17.png",
+    "lib/media/18.png",
+    "lib/media/19.png",
+    "lib/media/completion.gif",
+    "lib/media/signature.gif",
+    "lib/media/rename_symbol.gif",
+    "lib/media/env-select.png",
+    "lib/media/alt-env-select.png",
+    "lib/media/format.png",
+    "lib/media/table.png",
+    "lib/media/jet.png",
+    "lib/media/plotgraph.png",
+    "lib/media/profiler1.png",
+    "lib/media/profiler2.png",
+    "lib/media/profiler3.png",
+    "lib/media/profiler4.png",
+    "lib/media/remote_icon.png",
+    "lib/media/remote_extensions.png",
+    "lib/media/remote_persistent_session_setting.png",
+    "lib/media/testactivitybar.png",
+    "lib/media/testrunbutton.png",
+    "lib/media/testerrordetail.png",
+    "lib/media/testitemtagsvscode.png",
+    "lib/media/vscodenumtestprocesses.png",
+    "lib/media/testitemdebug1.png",
+    "lib/media/testitemdebug2.png",
+    "lib/media/testitemcoverage1.png",
+    "lib/media/testitemcoverage2.png",
+    "lib/media/testitemcoverageresultsummary.png",
+    "lib/media/testitemcoverageresultdetail.png",
+    "src/images/precompile-failure.png",
+    "src/assets/julia_vscode_extension.png",
+    "src/assets/hello-1.png",
+    "src/assets/hello-2.png",
+    "src/assets/hello-3.png",
+    "src/assets/hello-4.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "src/userguide/codenavigation.md": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 1435,
+      "exportedPath": "src/userguide/codenavigation.html",
+      "dependencies": [
+        "lib/media/image1.png",
+        "lib/media/image1.png",
+        "lib/media/definition.gif",
+        "lib/media/definition.gif",
+        "lib/media/symbols.gif",
+        "lib/media/symbols.gif",
+        "lib/media/opensymbol.png",
+        "lib/media/opensymbol.png"
+      ]
+    },
+    "src/userguide/debugging.md": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 8241,
+      "exportedPath": "src/userguide/debugging.html",
+      "dependencies": [
+        "lib/media/3.png",
+        "lib/media/3.png",
+        "lib/media/4.png",
+        "lib/media/4.png",
+        "lib/media/5.png",
+        "lib/media/5.png",
+        "lib/media/6.png",
+        "lib/media/6.png",
+        "lib/media/7.png",
+        "lib/media/7.png",
+        "lib/media/8.png",
+        "lib/media/8.png",
+        "lib/media/10.png",
+        "lib/media/10.png",
+        "lib/media/9.png",
+        "lib/media/9.png",
+        "lib/media/11.png",
+        "lib/media/11.png",
+        "lib/media/12.png",
+        "lib/media/12.png",
+        "lib/media/13.png",
+        "lib/media/13.png",
+        "lib/media/14.png",
+        "lib/media/14.png",
+        "lib/media/16.png",
+        "lib/media/16.png",
+        "lib/media/17.png",
+        "lib/media/17.png",
+        "lib/media/18.png",
+        "lib/media/18.png",
+        "lib/media/19.png",
+        "lib/media/19.png"
+      ]
+    },
+    "src/userguide/editingcode.md": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 465,
+      "exportedPath": "src/userguide/editingcode.html",
+      "dependencies": [
+        "lib/media/completion.gif",
+        "lib/media/completion.gif",
+        "lib/media/signature.gif",
+        "lib/media/signature.gif",
+        "lib/media/rename_symbol.gif",
+        "lib/media/rename_symbol.gif"
+      ]
+    },
+    "src/userguide/env.md": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 427,
+      "exportedPath": "src/userguide/env.html",
+      "dependencies": [
+        "lib/media/env-select.png",
+        "lib/media/env-select.png",
+        "lib/media/alt-env-select.png",
+        "lib/media/alt-env-select.png"
+      ]
+    },
+    "src/userguide/formatter.md": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 1208,
+      "exportedPath": "src/userguide/formatter.html",
+      "dependencies": [
+        "lib/media/format.png",
+        "lib/media/format.png"
+      ]
+    },
+    "src/userguide/grid.md": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 927,
+      "exportedPath": "src/userguide/grid.html",
+      "dependencies": [
+        "lib/media/table.png",
+        "lib/media/table.png"
+      ]
+    },
+    "src/userguide/keybindings.md": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 3298,
+      "exportedPath": "src/userguide/keybindings.html",
+      "dependencies": []
+    },
+    "src/userguide/linter.md": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 829,
+      "exportedPath": "src/userguide/linter.html",
+      "dependencies": [
+        "lib/media/jet.png",
+        "lib/media/jet.png"
+      ]
+    },
+    "src/userguide/plotgallery.md": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 1249,
+      "exportedPath": "src/userguide/plotgallery.html",
+      "dependencies": [
+        "lib/media/plotgraph.png",
+        "lib/media/plotgraph.png"
+      ]
+    },
+    "src/userguide/privacy.md": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 1317,
+      "exportedPath": "src/userguide/privacy.html",
+      "dependencies": []
+    },
+    "src/userguide/profiler.md": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 2153,
+      "exportedPath": "src/userguide/profiler.html",
+      "dependencies": [
+        "lib/media/profiler1.png",
+        "lib/media/profiler1.png",
+        "lib/media/profiler2.png",
+        "lib/media/profiler2.png",
+        "lib/media/profiler3.png",
+        "lib/media/profiler3.png",
+        "lib/media/profiler4.png",
+        "lib/media/profiler4.png"
+      ]
+    },
+    "src/userguide/remote.md": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 1280,
+      "exportedPath": "src/userguide/remote.html",
+      "dependencies": [
+        "lib/media/remote_icon.png",
+        "lib/media/remote_icon.png",
+        "lib/media/remote_extensions.png",
+        "lib/media/remote_extensions.png",
+        "lib/media/remote_persistent_session_setting.png",
+        "lib/media/remote_persistent_session_setting.png"
+      ]
+    },
+    "src/userguide/runningcode.md": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 5061,
+      "exportedPath": "src/userguide/runningcode.html",
+      "dependencies": []
+    },
+    "src/userguide/settings.md": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 9,
+      "exportedPath": "src/userguide/settings.html",
+      "dependencies": []
+    },
+    "src/userguide/tasks.md": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 8,
+      "exportedPath": "src/userguide/tasks.html",
+      "dependencies": []
+    },
+    "src/userguide/testitems.md": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 11543,
+      "exportedPath": "src/userguide/testitems.html",
+      "dependencies": [
+        "lib/media/testactivitybar.png",
+        "lib/media/testactivitybar.png",
+        "lib/media/testrunbutton.png",
+        "lib/media/testrunbutton.png",
+        "lib/media/testerrordetail.png",
+        "lib/media/testerrordetail.png",
+        "lib/media/testitemtagsvscode.png",
+        "lib/media/testitemtagsvscode.png",
+        "lib/media/vscodenumtestprocesses.png",
+        "lib/media/vscodenumtestprocesses.png",
+        "lib/media/testitemdebug1.png",
+        "lib/media/testitemdebug1.png",
+        "lib/media/testitemdebug2.png",
+        "lib/media/testitemdebug2.png",
+        "lib/media/testitemcoverage1.png",
+        "lib/media/testitemcoverage1.png",
+        "lib/media/testitemcoverage2.png",
+        "lib/media/testitemcoverage2.png",
+        "lib/media/testitemcoverageresultsummary.png",
+        "lib/media/testitemcoverageresultsummary.png",
+        "lib/media/testitemcoverageresultdetail.png",
+        "lib/media/testitemcoverageresultdetail.png"
+      ]
+    },
+    "src/userguide/understandingcode.md": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 21,
+      "exportedPath": "src/userguide/understandingcode.html",
+      "dependencies": []
+    },
+    "src/userguide/weave.md": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 504,
+      "exportedPath": "src/userguide/weave.html",
+      "dependencies": []
+    },
+    "src/faq.md": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 1412,
+      "exportedPath": "src/faq.html",
+      "dependencies": [
+        "src/images/precompile-failure.png",
+        "src/images/precompile-failure.png"
+      ]
+    },
+    "src/gettingstarted.md": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 2701,
+      "exportedPath": "src/gettingstarted.html",
+      "dependencies": [
+        "src/assets/julia_vscode_extension.png",
+        "src/assets/julia_vscode_extension.png",
+        "src/assets/hello-1.png",
+        "src/assets/hello-1.png",
+        "src/assets/hello-2.png",
+        "src/assets/hello-2.png",
+        "src/assets/hello-3.png",
+        "src/assets/hello-3.png",
+        "src/assets/hello-4.png",
+        "src/assets/hello-4.png"
+      ]
+    },
+    "src/index.md": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 1522,
+      "exportedPath": "src/index.html",
+      "dependencies": []
+    },
+    "src/setup.md": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 1826,
+      "exportedPath": "src/setup.html",
+      "dependencies": []
+    },
+    "lib/media/image1.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 16655,
+      "exportedPath": "lib/media/image1.png",
+      "dependencies": []
+    },
+    "lib/media/definition.gif": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 169902,
+      "exportedPath": "lib/media/definition.gif",
+      "dependencies": []
+    },
+    "lib/media/symbols.gif": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 49569,
+      "exportedPath": "lib/media/symbols.gif",
+      "dependencies": []
+    },
+    "lib/media/opensymbol.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 111782,
+      "exportedPath": "lib/media/opensymbol.png",
+      "dependencies": []
+    },
+    "lib/media/3.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 30883,
+      "exportedPath": "lib/media/3.png",
+      "dependencies": []
+    },
+    "lib/media/4.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 32638,
+      "exportedPath": "lib/media/4.png",
+      "dependencies": []
+    },
+    "lib/media/5.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 39061,
+      "exportedPath": "lib/media/5.png",
+      "dependencies": []
+    },
+    "lib/media/6.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 40041,
+      "exportedPath": "lib/media/6.png",
+      "dependencies": []
+    },
+    "lib/media/7.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 40182,
+      "exportedPath": "lib/media/7.png",
+      "dependencies": []
+    },
+    "lib/media/8.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 39371,
+      "exportedPath": "lib/media/8.png",
+      "dependencies": []
+    },
+    "lib/media/10.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 40347,
+      "exportedPath": "lib/media/10.png",
+      "dependencies": []
+    },
+    "lib/media/9.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 40759,
+      "exportedPath": "lib/media/9.png",
+      "dependencies": []
+    },
+    "lib/media/11.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 5390,
+      "exportedPath": "lib/media/11.png",
+      "dependencies": []
+    },
+    "lib/media/12.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 902,
+      "exportedPath": "lib/media/12.png",
+      "dependencies": []
+    },
+    "lib/media/13.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 2320,
+      "exportedPath": "lib/media/13.png",
+      "dependencies": []
+    },
+    "lib/media/14.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 61485,
+      "exportedPath": "lib/media/14.png",
+      "dependencies": []
+    },
+    "lib/media/16.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 246745,
+      "exportedPath": "lib/media/16.png",
+      "dependencies": []
+    },
+    "lib/media/17.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 4215,
+      "exportedPath": "lib/media/17.png",
+      "dependencies": []
+    },
+    "lib/media/18.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 41163,
+      "exportedPath": "lib/media/18.png",
+      "dependencies": []
+    },
+    "lib/media/19.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 51858,
+      "exportedPath": "lib/media/19.png",
+      "dependencies": []
+    },
+    "lib/media/completion.gif": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 101541,
+      "exportedPath": "lib/media/completion.gif",
+      "dependencies": []
+    },
+    "lib/media/signature.gif": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 61509,
+      "exportedPath": "lib/media/signature.gif",
+      "dependencies": []
+    },
+    "lib/media/rename_symbol.gif": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 2690543,
+      "exportedPath": "lib/media/rename_symbol.gif",
+      "dependencies": []
+    },
+    "lib/media/env-select.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 749083,
+      "exportedPath": "lib/media/env-select.png",
+      "dependencies": []
+    },
+    "lib/media/alt-env-select.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 993096,
+      "exportedPath": "lib/media/alt-env-select.png",
+      "dependencies": []
+    },
+    "lib/media/format.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 8910,
+      "exportedPath": "lib/media/format.png",
+      "dependencies": []
+    },
+    "lib/media/table.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 135133,
+      "exportedPath": "lib/media/table.png",
+      "dependencies": []
+    },
+    "lib/media/jet.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 116946,
+      "exportedPath": "lib/media/jet.png",
+      "dependencies": []
+    },
+    "lib/media/plotgraph.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 21867,
+      "exportedPath": "lib/media/plotgraph.png",
+      "dependencies": []
+    },
+    "lib/media/profiler1.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 100868,
+      "exportedPath": "lib/media/profiler1.png",
+      "dependencies": []
+    },
+    "lib/media/profiler2.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 36429,
+      "exportedPath": "lib/media/profiler2.png",
+      "dependencies": []
+    },
+    "lib/media/profiler3.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 43471,
+      "exportedPath": "lib/media/profiler3.png",
+      "dependencies": []
+    },
+    "lib/media/profiler4.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 429894,
+      "exportedPath": "lib/media/profiler4.png",
+      "dependencies": []
+    },
+    "lib/media/remote_icon.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 425,
+      "exportedPath": "lib/media/remote_icon.png",
+      "dependencies": []
+    },
+    "lib/media/remote_extensions.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 109124,
+      "exportedPath": "lib/media/remote_extensions.png",
+      "dependencies": []
+    },
+    "lib/media/remote_persistent_session_setting.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 53201,
+      "exportedPath": "lib/media/remote_persistent_session_setting.png",
+      "dependencies": []
+    },
+    "lib/media/testactivitybar.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 28471,
+      "exportedPath": "lib/media/testactivitybar.png",
+      "dependencies": []
+    },
+    "lib/media/testrunbutton.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 16742,
+      "exportedPath": "lib/media/testrunbutton.png",
+      "dependencies": []
+    },
+    "lib/media/testerrordetail.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 36311,
+      "exportedPath": "lib/media/testerrordetail.png",
+      "dependencies": []
+    },
+    "lib/media/testitemtagsvscode.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 14640,
+      "exportedPath": "lib/media/testitemtagsvscode.png",
+      "dependencies": []
+    },
+    "lib/media/vscodenumtestprocesses.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 4997,
+      "exportedPath": "lib/media/vscodenumtestprocesses.png",
+      "dependencies": []
+    },
+    "lib/media/testitemdebug1.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 19252,
+      "exportedPath": "lib/media/testitemdebug1.png",
+      "dependencies": []
+    },
+    "lib/media/testitemdebug2.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 53874,
+      "exportedPath": "lib/media/testitemdebug2.png",
+      "dependencies": []
+    },
+    "lib/media/testitemcoverage1.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 41192,
+      "exportedPath": "lib/media/testitemcoverage1.png",
+      "dependencies": []
+    },
+    "lib/media/testitemcoverage2.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 55895,
+      "exportedPath": "lib/media/testitemcoverage2.png",
+      "dependencies": []
+    },
+    "lib/media/testitemcoverageresultsummary.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 4001,
+      "exportedPath": "lib/media/testitemcoverageresultsummary.png",
+      "dependencies": []
+    },
+    "lib/media/testitemcoverageresultdetail.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 101417,
+      "exportedPath": "lib/media/testitemcoverageresultdetail.png",
+      "dependencies": []
+    },
+    "src/images/precompile-failure.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 11108,
+      "exportedPath": "src/images/precompile-failure.png",
+      "dependencies": []
+    },
+    "src/assets/julia_vscode_extension.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 19482,
+      "exportedPath": "src/assets/julia_vscode_extension.png",
+      "dependencies": []
+    },
+    "src/assets/hello-1.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 11248,
+      "exportedPath": "src/assets/hello-1.png",
+      "dependencies": []
+    },
+    "src/assets/hello-2.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 12778,
+      "exportedPath": "src/assets/hello-2.png",
+      "dependencies": []
+    },
+    "src/assets/hello-3.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 8287,
+      "exportedPath": "src/assets/hello-3.png",
+      "dependencies": []
+    },
+    "src/assets/hello-4.png": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 10042,
+      "exportedPath": "src/assets/hello-4.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 8995,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 1223,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 131134,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 472,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1730429856598,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}

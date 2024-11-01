@@ -1,0 +1,335 @@
+{
+  "main": {
+    "id": "f12575f8994223ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bcdc1a3eb5832c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27c0132afc7b3bbe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41433299aefed73c",
+    "type": "split",
+    "children": [
+      {
+        "id": "46f01d27e83c2dbd",
+        "type": "tabs",
+        "dimension": 64.6354733405876,
+        "children": [
+          {
+            "id": "ebd736395d392e0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "13c6d96a0c2650e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6ab57a35d2b72f8d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      },
+      {
+        "id": "52c021a583b066a5",
+        "type": "tabs",
+        "dimension": 35.364526659412405,
+        "children": [
+          {
+            "id": "faa6bd9feab89a0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/setup.md"
+              },
+              "icon": "lucide-list",
+              "title": "setup 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 266.5
+  },
+  "right": {
+    "id": "2552b4b3a6af60b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1657b1b450a2e68",
+        "type": "tabs",
+        "dimension": 45.92875318066158,
+        "children": [
+          {
+            "id": "aa5809186ca8d555",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05-miscellaneous/julia-vscode/src/目录.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "目录 的反向链接列表"
+            }
+          },
+          {
+            "id": "5ffabaa9d7f372a1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "05-miscellaneous/julia-vscode/src/目录.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "目录 的出链列表"
+            }
+          },
+          {
+            "id": "2aab03f60b2e76e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d490bdc206f33fc1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "c827cceb62e69594",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "7639032b96aa239e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar-view",
+              "state": {},
+              "icon": "lucide-calendar-check",
+              "title": "日历"
+            }
+          },
+          {
+            "id": "a4ed2175687b7979",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {},
+              "icon": "quote-glyph",
+              "title": "References"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "163d2331b2bdd53d",
+        "type": "tabs",
+        "dimension": 54.07124681933843,
+        "children": [
+          {
+            "id": "cb1cab72e40b31da",
+            "type": "leaf",
+            "state": {
+              "type": "calendar-view",
+              "state": {},
+              "icon": "lucide-calendar-check",
+              "title": "日历"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "marp-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "floating": {
+    "id": "f2c5347d89d3059c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ca46aaf7ec48172f",
+        "type": "window",
+        "children": [
+          {
+            "id": "7235f41bd5e5122e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6cfe1ea17f8e90c8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "src/setup.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "setup"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 830,
+        "y": 892,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "6cfe1ea17f8e90c8",
+  "lastOpenFiles": [
+    "src/gettingstarted.md",
+    "src/faq.md",
+    "src/userguide/weave.md",
+    "src/userguide/testitems.md",
+    "src/userguide/tasks.md",
+    "src/userguide/settings.md",
+    "src/userguide/remote.md",
+    "src/userguide/profiler.md",
+    "src/userguide/plotgallery.md",
+    "src/userguide/linter.md",
+    "src/userguide/grid.md",
+    "src/userguide/formatter.md",
+    "src/userguide/env.md",
+    "src/userguide/editingcode.md",
+    "src/userguide/debugging.md",
+    "src/userguide/codenavigation.md",
+    "03-dailyNotes/IBM 键盘.html",
+    "03-dailyNotes",
+    "05-miscellaneous/julia-vscode/src/gettingstarted.md",
+    "05-miscellaneous/julia-vscode/src/faq.md",
+    "05-miscellaneous/Julia文档/性能提示.md",
+    "05-miscellaneous/Julia文档/入门.md",
+    "03-dailyNotes/哈工大简介.md",
+    "03-dailyNotes/航天学院简介.md",
+    "03-dailyNotes/哈工大力学学科简介.md",
+    "03-dailyNotes/2024-10-27.md",
+    "03-dailyNotes/attachments/image_editor_1729998415961.jpg",
+    "03-dailyNotes/attachments/Pasted image 20241027102029.png",
+    "03-dailyNotes/2024-09-28.md",
+    "03-dailyNotes/attachments/5d1f14ba8775b6714.jpg_e1080.webp",
+    "03-dailyNotes/attachments/Pasted image 20241027100011.png.~tmp",
+    "03-dailyNotes/attachments/Pasted image 20241027100011.png",
+    "03-dailyNotes/attachments/shark_94Y6108_liteon_thumb.webp",
+    "03-dailyNotes/attachments/Pasted image 20241027094815.jpg",
+    "03-dailyNotes/attachments/Pasted image 20241027094608.png",
+    "03-dailyNotes/attachments/Pasted image 20241027094551.png",
+    "03-dailyNotes/attachments/Pasted image 20241027094540.png",
+    "03-dailyNotes/attachments/Pasted image 20241027094121.png.~tmp",
+    "03-dailyNotes/attachments/Pasted image 20241027094121.png",
+    "03-dailyNotes/attachments/1729991702211.jpg.~tmp",
+    "03-dailyNotes/attachments",
+    "05-miscellaneous/julia-vscode/src/userguide/editingcode.md",
+    "05-miscellaneous/julia-vscode/docs/userguide",
+    "05-miscellaneous/julia-vscode/docs/media",
+    "05-miscellaneous/julia-vscode/docs/images/testitems",
+    "05-miscellaneous/julia-vscode/docs/images/remote",
+    "未命名.canvas",
+    "knowledge-garden-main/Extras/Templates/Calendar模板/回顾总结模板/月度模板.canvas",
+    "knowledge-garden-main/Extras/Templates/Canvas模板/精益画布 - 模板.canvas",
+    "knowledge-garden-main/Extras/Templates/Canvas模板/思维导图 - 模板.canvas",
+    "knowledge-garden-main/Atlas/Canvas/🧩 白板canvas-示意图.canvas",
+    "knowledge-garden-main/Atlas/Canvas/🧩 数字时代如何更好地生活与工作.canvas",
+    "knowledge-garden-main/Atlas/Canvas/🧩 如何构建第二大脑.canvas",
+    "knowledge-garden-main/Atlas/Canvas/🧩 如何学会减脂和健身.canvas",
+    "knowledge-garden-main/Atlas/Canvas/🧩 如何做读书笔记.canvas",
+    "knowledge-garden-main/Atlas/Canvas/🧩 golang roadmap 路线图.canvas"
+  ]
+}
